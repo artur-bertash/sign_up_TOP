@@ -12,7 +12,8 @@ This is a project from [The Odin Project](https://www.theodinproject.com/) - Int
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/96fc3f52-4a5e-4dcb-8ade-28daa975426e)
+![image](https://github.com/user-attachments/assets/bcde7ad1-b2b4-471a-bdaf-f96d5b0a423d)
+
 
 
 ## Live Preview
